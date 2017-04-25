@@ -1,0 +1,18 @@
+{
+  "name": "sticker2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandr Kleshch",
+  "license": "ISC",
+
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-jade": "*",
+    "gulp-sass": "*",
+	"gulp-livereload": "*"
+  }
+}
